@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [guru.guruBank.GuruBank_LandingPage_Test]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="guru.guruBank.GuruBank_LandingPage_Test">
+        <methods>
+          <include name="LaningPageTest"/>
+        </methods>
+      </class> <!-- guru.guruBank.GuruBank_LandingPage_Test -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [guru.guruBank.GuruBank_LandingPage_Test] -->

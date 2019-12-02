@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-02T11:37:37Z" name="Default suite" finished-at="2019-12-02T11:37:53Z" duration-ms="16912">
+    <groups>
+    </groups>
+    <test started-at="2019-12-02T11:37:37Z" name="Default test" finished-at="2019-12-02T11:37:53Z" duration-ms="16912">
+      <class name="guru.guruBank.GuruBank_NewCustomer">
+        <test-method is-config="true" signature="getLogeed()[pri:0, instance:guru.guruBank.GuruBank_NewCustomer@7d20d0b]" started-at="2019-12-02T11:37:37Z" name="getLogeed" finished-at="2019-12-02T11:37:52Z" duration-ms="15237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogeed -->
+        <test-method signature="getNewCustomer()[pri:0, instance:guru.guruBank.GuruBank_NewCustomer@7d20d0b]" started-at="2019-12-02T11:37:52Z" name="getNewCustomer" finished-at="2019-12-02T11:37:53Z" duration-ms="1617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNewCustomer -->
+      </class> <!-- guru.guruBank.GuruBank_NewCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
